@@ -1,0 +1,4 @@
+baseURL = 'http://arunraman.github.io/'
+languageCode = 'en-us'
+title = 'Arun Raman Personal Website'
+theme="LoveIt"
