@@ -1,0 +1,7 @@
+[submodule "arunraman/public"]
+	path = arunraman/public
+	url = https://github.com/arunraman/arunraman.github.io.git
+	branch = main
+[submodule "arunraman/arunraman/themes/LoveIt"]
+	path = arunraman/arunraman/themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
